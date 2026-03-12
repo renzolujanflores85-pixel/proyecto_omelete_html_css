@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    background-color: #ffcc00;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+h1 {
+    margin: 0;
+    color: #004d40;
+}
+
+.imagen-ceviche {
+    margin-top: 15px;
+    max-width: 300px;
+    border-radius: 10px;
+    border: 2px solid #004d40;
+}
+
+section {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #00796b;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
